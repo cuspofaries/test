@@ -1,1 +1,2 @@
 htmlspecialchars_decode
+hash_final
